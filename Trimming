@@ -1,0 +1,2 @@
+cutadapt -q <Phred_score> --minimum-length <min_len> \
+  -o <output_path> <input_fastq>
