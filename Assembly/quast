@@ -1,0 +1,2 @@
+conda install -c bioconda quast
+quast /assembly/contigs.fasta -o /assembly/quast_report
